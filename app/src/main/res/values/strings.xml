@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qual sistema operacional você prefere?</string>
+    <string name="android_text">Android</string>
+    <string name="ios_text">IOS</string>
+</resources>

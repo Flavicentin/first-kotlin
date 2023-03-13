@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="text_margin">32dp</dimen>
+    <dimen name="askTitle_TextSize">24sp</dimen>
+
+    // buttons - Android | IOS
+    <dimen name="buttons_margin">24dp</dimen>
+
+    // choose
+    <dimen name="choose_TextSize">16sp</dimen>
+
+</resources>
